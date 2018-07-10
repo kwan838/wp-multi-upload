@@ -39,15 +39,10 @@ Use this plugin if you want to quickly add a feature to upload multiple images f
 1. screenshot-1.png
 
 == Changelog ==
-= 1.2 =
-* Compatibility issues with latest WP version fixed.
-* Image thumbnails displayed in admin meta box.
-
-= 1.1 =
-* Bug fixes
-
 = 1.0 =
 * First stable release.
+* support multi-select upload behavior
+
 
 
 
